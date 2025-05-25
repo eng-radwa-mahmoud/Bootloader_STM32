@@ -1,0 +1,3 @@
+../Core/Src/RCC_program.c:9:6:RCC_voidInit	4	static
+../Core/Src/RCC_program.c:37:6:RCC_voidEnablePerClock	16	static
+../Core/Src/RCC_program.c:49:6:RCC_voidDisablePerClock	16	static

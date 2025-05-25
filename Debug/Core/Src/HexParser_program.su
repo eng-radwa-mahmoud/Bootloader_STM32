@@ -1,0 +1,3 @@
+../Core/Src/HexParser_program.c:11:11:HexParser_u8Ascii2Hex	24	static
+../Core/Src/HexParser_program.c:26:6:HexParser_vParseData	32	static
+../Core/Src/HexParser_program.c:68:6:HexParser_vEraseAppArea	8	static

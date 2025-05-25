@@ -1,0 +1,3 @@
+../Core/Src/Flash_program.c:10:6:Flash_vEraseAppArea	16	static
+../Core/Src/Flash_program.c:18:6:Flash_vSectorErase	16	static,ignoring_inline_asm
+../Core/Src/Flash_program.c:52:6:Flash_vFlashWrite	32	static,ignoring_inline_asm

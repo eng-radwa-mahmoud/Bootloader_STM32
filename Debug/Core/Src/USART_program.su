@@ -1,0 +1,17 @@
+../Core/Src/USART_program.c:17:6:MUSART_voidInit	96	static
+../Core/Src/USART_program.c:47:6:MUSART_Enable	16	static
+../Core/Src/USART_program.c:51:6:MUSART_Disable	16	static
+../Core/Src/USART_program.c:56:6:MUSART_voidTransmitByte	16	static,ignoring_inline_asm
+../Core/Src/USART_program.c:67:6:MUSART_voidTransmitString	24	static
+../Core/Src/USART_program.c:77:4:MUSART_u8ReceiveByteSynchNonBlocking	24	static
+../Core/Src/USART_program.c:96:6:MUSART_ptrReceiveStringSynchNonBlocking	24	static
+../Core/Src/USART_program.c:108:4:MUSART_u8ReadDataRegister	16	static
+../Core/Src/USART_program.c:113:6:MUSART_voidClearFlags	16	static
+../Core/Src/USART_program.c:118:6:MUSART_RxIntSetStatus	16	static
+../Core/Src/USART_program.c:128:4:MUSART_vReceive_Synch	24	static
+../Core/Src/USART_program.c:143:6:MUSART1_voidSetCallBack	16	static
+../Core/Src/USART_program.c:148:6:MUSART2_voidSetCallBack	16	static
+../Core/Src/USART_program.c:153:6:MUSART6_voidSetCallBack	16	static
+../Core/Src/USART_program.c:158:6:USART1_IRQHandler	8	static
+../Core/Src/USART_program.c:164:6:USART2_IRQHandler	8	static
+../Core/Src/USART_program.c:170:6:USART6_IRQHandler	8	static
